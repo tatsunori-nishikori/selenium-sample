@@ -1,5 +1,5 @@
-Selenium 勉強会資料
-https://docs.google.com/a/metaps.com/presentation/d/1LDkpIi8FwsmD1SVNg0tVOgEmGYGHzK4yU09foYH57zs/edit
+[Selenium 勉強会資料](https://www.slideshare.net/tatsunorinishikori/selenium-47637695)
+
 
 Selenium + PHPUnit Sample Code
 facebook login sample
